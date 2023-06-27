@@ -1,3 +1,4 @@
 こちらはテストです。
 .git add
 .git commit
+.git rm
