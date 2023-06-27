@@ -1,1 +1,3 @@
 こちらはテストです。
+.git add
+.git commit
