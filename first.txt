@@ -10,3 +10,5 @@
 もう一度文章を追加します
 git mv 旧ファイル名 新ファイル
 git commit --amend
+
+<p>conflict</p>
