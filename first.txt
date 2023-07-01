@@ -11,3 +11,4 @@
 git mv 旧ファイル名 新ファイル
 git commit --amend
 <p>git merge</p>
+<p>コンフリクト</p>
